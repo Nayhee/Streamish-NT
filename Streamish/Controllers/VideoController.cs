@@ -68,5 +68,12 @@ namespace Streamish.Controllers
             return NoContent();
         }
 
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            _videoRepository.Delete(id);
+            return NoContent();
+        }
+
     }
 }
