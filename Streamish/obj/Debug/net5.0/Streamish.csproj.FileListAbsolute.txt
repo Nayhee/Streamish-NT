@@ -50,3 +50,6 @@ C:\Users\natha\workspace\VS\Streamish\Streamish\obj\Debug\net5.0\refint\Streamis
 C:\Users\natha\workspace\VS\Streamish\Streamish\obj\Debug\net5.0\Streamish.pdb
 C:\Users\natha\workspace\VS\Streamish\Streamish\obj\Debug\net5.0\Streamish.genruntimeconfig.cache
 C:\Users\natha\workspace\VS\Streamish\Streamish\obj\Debug\net5.0\ref\Streamish.dll
+C:\Users\natha\workspace\VS\Streamish\Streamish\bin\Debug\net5.0\client\package-lock.json
+C:\Users\natha\workspace\VS\Streamish\Streamish\bin\Debug\net5.0\client\package.json
+C:\Users\natha\workspace\VS\Streamish\Streamish\bin\Debug\net5.0\client\public\manifest.json

@@ -13,5 +13,7 @@ namespace Streamish.Repositories
 
         List<Video> GetAllWithComments();
         Video GetVideoByIdWithComments(int id);
+
+        List<Video> Search(string criterion, bool sortDescending);
     }
 }
